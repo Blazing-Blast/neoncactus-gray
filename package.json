@@ -1,0 +1,33 @@
+{
+  "name": "neoncactus-gray",
+  "displayName": "neoncactus-gray",
+  "description": "A grayscale version of my neoncactus theme, as suggested by u/FGND",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "neon",
+    "neon syntax",
+    "cactus",
+    "green",
+    "gray",
+    "neon cactus",
+    "neon cactus-gray",
+    "neon cactus gray"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Cactus-gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Cactus-gray-color-theme.json"
+      }
+    ]
+  }
+}
